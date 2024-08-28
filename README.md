@@ -15,3 +15,10 @@ This is a simple keylogger script written in Python using the `pynput` library. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Moo002/PRODIGY_T1234_Task4.git
+
+## Run the script:
+python keylogger.py
+
+## Warning
+This script is for educational purposes only. Misuse of keylogging software is illegal and unethical. Ensure you have permission before using it.
+
